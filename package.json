@@ -1,0 +1,13 @@
+{
+  "name": "madlibs-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Aman",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "prompt": "^1.2.0"
+  }
+}
